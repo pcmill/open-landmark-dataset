@@ -3,3 +3,39 @@ id, name, lat, lon, wikipediaUrl
 2, Anne Frank House, 52.375142, 4.884089, https://en.wikipedia.org/wiki/Anne_Frank_House
 3, Rijksmuseum, 52.35999, 4.88531, https://en.wikipedia.org/wiki/Rijksmuseum
 4, Eiffel Tower, 48.85826, 2.29451, https://en.wikipedia.org/wiki/Eiffel_Tower
+5, Rietveld Schröder House, 52.08534, 5.14758, https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House
+6, Royal Palace of Brussels, 50.841540, 4.362179, https://en.wikipedia.org/wiki/Royal_Palace_of_Brussels
+7, Halle Gate, 50.833029, 4.344895, https://en.wikipedia.org/wiki/Halle_Gate
+8, Golden Gate Bridge, 37.819657, -122.478544, https://en.wikipedia.org/wiki/Golden_Gate_Bridge
+9, Alcatraz, 37.826686, -122.422978, https://en.wikipedia.org/wiki/Alcatraz_Island
+10, Hollywood Sign, 34.134066, -118.321691, https://en.wikipedia.org/wiki/Hollywood_Sign
+11, Empire State Building, 40.748474, -73.985656, https://en.wikipedia.org/wiki/Empire_State_Building
+12, Sydney Opera House, -33.856944, 151.215157, https://en.wikipedia.org/wiki/Sydney_Opera_House
+13, Arc de Triomphe, 48.873795, 2.295067, https://en.wikipedia.org/wiki/Arc_de_Triomphe
+14, Palace of Versailles, 48.804806, 2.120310, https://en.wikipedia.org/wiki/Palace_of_Versailles
+15, Louvre, 48.860588, 2.337673, https://en.wikipedia.org/wiki/Louvre
+16, Notre-Dame de Paris, 48.853021, 2.349850, https://en.wikipedia.org/wiki/Notre-Dame_de_Paris
+17, Leaning Tower of Pisa, 43.722985, 10.396626, https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa
+18, Colosseum, 41.890196, 12.492359, https://en.wikipedia.org/wiki/Colosseum
+19, Taj Mahal, 27.175056, 78.042181, https://en.wikipedia.org/wiki/Taj_Mahal
+20, Pyramids of Giza, 29.977361, 31.132409, https://en.wikipedia.org/wiki/Giza_pyramid_complex
+21, Christ the Redeemer, -22.952365, -43.210345, https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
+22, Angkor Wat, 13.412515, 103.867026, https://en.wikipedia.org/wiki/Angkor_Wat
+23, Brandenburg Gate, 52.516307, 13.377720, https://en.wikipedia.org/wiki/Brandenburg_Gate
+24, Acropolis, 37.971717, 23.726559, https://en.wikipedia.org/wiki/Acropolis_of_Athens
+25, Guggenheim Museum, 43.268766, -2.933947, https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao
+26, La Sagrada Família, 41.403576, 2.174450, https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia
+27, Big Ben, 51.500755, -0.124574, https://en.wikipedia.org/wiki/Big_Ben
+28, Statue of Liberty, 40.689274, -74.044539, https://en.wikipedia.org/wiki/Statue_of_Liberty
+29, Sydney Harbour Bridge, -33.852155, 151.210784, https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge
+30, Space Needle, 47.620486, -122.349290, https://en.wikipedia.org/wiki/Space_Needle
+31, Burj Khalifa, 25.197281, 55.274202, https://en.wikipedia.org/wiki/Burj_Khalifa
+32, Mount Rushmore, 43.879052, -103.459119, https://en.wikipedia.org/wiki/Mount_Rushmore
+33, Stonehenge, 51.178850, -1.826162, https://en.wikipedia.org/wiki/Stonehenge
+34, Buckingham Palace, 51.501344, -0.141885, https://en.wikipedia.org/wiki/Buckingham_Palace
+35, CN Tower, 43.642647, -79.387079, https://en.wikipedia.org/wiki/CN_Tower
+36, Washington Monument, 38.889467, -77.035255, https://en.wikipedia.org/wiki/Washington_Monument
+37, Trevi Fountain, 41.900988, 12.483297, https://en.wikipedia.org/wiki/Trevi_Fountain
+38, St. Peter's Basilica, 41.902190, 12.453371, https://en.wikipedia.org/wiki/St._Peter%27s_Basilica
+39, Great Wall of China, 40.433165, 116.564256, https://en.wikipedia.org/wiki/Great_Wall_of_China
+40, Gardens by the Bay, 1.281949, 103.864010, https://en.wikipedia.org/wiki/Gardens_by_the_Bay
