@@ -1,10 +1,10 @@
 id, name, lat, lon, wikipediaUrl
-1, Dom Tower, 52.090633, 5.121177, https://en.wikipedia.org/wiki/Dom_Tower_of_Utrecht
+1, Dom Tower, 52.090656, 5.121309, https://en.wikipedia.org/wiki/Dom_Tower_of_Utrecht
 2, Anne Frank House, 52.375142, 4.884089, https://en.wikipedia.org/wiki/Anne_Frank_House
-3, Rijksmuseum, 52.35999, 4.88531, https://en.wikipedia.org/wiki/Rijksmuseum
+3, Rijksmuseum, 52.360016, 4.885279, https://en.wikipedia.org/wiki/Rijksmuseum
 4, Eiffel Tower, 48.85826, 2.29451, https://en.wikipedia.org/wiki/Eiffel_Tower
 5, Rietveld Schröder House, 52.08534, 5.14758, https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House
-6, Royal Palace of Brussels, 50.841540, 4.362179, https://en.wikipedia.org/wiki/Royal_Palace_of_Brussels
+6, Royal Palace of Brussels, 50.841699, 4.362137, https://en.wikipedia.org/wiki/Royal_Palace_of_Brussels
 7, Halle Gate, 50.833029, 4.344895, https://en.wikipedia.org/wiki/Halle_Gate
 8, Golden Gate Bridge, 37.819657, -122.478544, https://en.wikipedia.org/wiki/Golden_Gate_Bridge
 9, Alcatraz, 37.826686, -122.422978, https://en.wikipedia.org/wiki/Alcatraz_Island
@@ -21,7 +21,7 @@ id, name, lat, lon, wikipediaUrl
 20, Pyramids of Giza, 29.977361, 31.132409, https://en.wikipedia.org/wiki/Giza_pyramid_complex
 21, Christ the Redeemer, -22.952365, -43.210345, https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)
 22, Angkor Wat, 13.412515, 103.867026, https://en.wikipedia.org/wiki/Angkor_Wat
-23, Brandenburg Gate, 52.516307, 13.377720, https://en.wikipedia.org/wiki/Brandenburg_Gate
+23, Brandenburg Gate, 52.516283, 13.377702, https://en.wikipedia.org/wiki/Brandenburg_Gate
 24, Acropolis, 37.971717, 23.726559, https://en.wikipedia.org/wiki/Acropolis_of_Athens
 25, Guggenheim Museum, 43.268766, -2.933947, https://en.wikipedia.org/wiki/Guggenheim_Museum_Bilbao
 26, La Sagrada Família, 41.403576, 2.174450, https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia
@@ -39,3 +39,13 @@ id, name, lat, lon, wikipediaUrl
 38, St. Peter's Basilica, 41.902190, 12.453371, https://en.wikipedia.org/wiki/St._Peter%27s_Basilica
 39, Great Wall of China, 40.433165, 116.564256, https://en.wikipedia.org/wiki/Great_Wall_of_China
 40, Gardens by the Bay, 1.281949, 103.864010, https://en.wikipedia.org/wiki/Gardens_by_the_Bay
+41, The Bastei Bridge, 50.961786, 14.072908, https://en.wikipedia.org/wiki/Bastei
+42, Neuschwanstein Castle, 47.557519, 10.749770, https://en.wikipedia.org/wiki/Neuschwanstein_Castle
+43, New Town Hall, 52.367212, 9.737323, https://en.wikipedia.org/wiki/New_Town_Hall_(Hanover)
+44, Nuremberg Castle, 49.457908, 11.075864, https://en.wikipedia.org/wiki/Nuremberg_Castle
+45, Eltz Castle, 50.205072, 7.336619, https://en.wikipedia.org/wiki/Eltz_Castle
+46, Frauenkirche, 51.051936, 13.741618, https://en.wikipedia.org/wiki/Frauenkirche,_Dresden
+47, Zwinger Palace, 51.052999, 13.733778, https://en.wikipedia.org/wiki/Zwinger_(Dresden)
+48, Cologne Cathedral, 50.941389, 6.958213, https://en.wikipedia.org/wiki/Cologne_Cathedral
+49, Nymphenburg Palace, 48.158289, 11.503308, https://en.wikipedia.org/wiki/Nymphenburg_Palace
+50, Old Town Hall, 49.891626, 10.886843, https://en.wikipedia.org/wiki/Bamberg
