@@ -44,7 +44,7 @@ id, name, lat, lon, wikipediaUrl
 43, New Town Hall, 52.367212, 9.737323, https://en.wikipedia.org/wiki/New_Town_Hall_(Hanover)
 44, Nuremberg Castle, 49.457908, 11.075864, https://en.wikipedia.org/wiki/Nuremberg_Castle
 45, Eltz Castle, 50.205072, 7.336619, https://en.wikipedia.org/wiki/Eltz_Castle
-46, Frauenkirche, 51.051936, 13.741618, https://en.wikipedia.org/wiki/Frauenkirche,_Dresden
+46, Frauenkirche, 51.051936, 13.741618, "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden"
 47, Zwinger Palace, 51.052999, 13.733778, https://en.wikipedia.org/wiki/Zwinger_(Dresden)
 48, Cologne Cathedral, 50.941389, 6.958213, https://en.wikipedia.org/wiki/Cologne_Cathedral
 49, Nymphenburg Palace, 48.158289, 11.503308, https://en.wikipedia.org/wiki/Nymphenburg_Palace
